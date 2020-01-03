@@ -5,3 +5,5 @@ console.log(challenge);
 console.log(challenge.length);
 
 console.log(challenge.toUpperCase());  // Change all the string to capital letters using toUpperCase() method
+
+console.log(challenge.toLowerCase());  // Change all the string to lowercase letters using toLowerCase() method
