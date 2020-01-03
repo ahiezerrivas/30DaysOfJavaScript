@@ -7,3 +7,5 @@ console.log(challenge.length);
 console.log(challenge.toUpperCase());  // Change all the string to capital letters using toUpperCase() method
 
 console.log(challenge.toLowerCase());  // Change all the string to lowercase letters using toLowerCase() method
+
+console.log(challenge.substr(0,2));    // Cut(slice) out the first word of the string using substr() or substring() method
