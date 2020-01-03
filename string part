@@ -4,12 +4,12 @@ console.log(challenge);
 
 console.log(challenge.length);
 
-console.log(challenge.toUpperCase());  // Change all the string to capital letters using toUpperCase() method
+console.log(challenge.toUpperCase());  // 4.Change all the string to capital letters using toUpperCase() method
 
-console.log(challenge.toLowerCase());  // Change all the string to lowercase letters using toLowerCase() method
+console.log(challenge.toLowerCase());  // 5.Change all the string to lowercase letters using toLowerCase() method
 
-console.log(challenge.substr(0,2));    // Cut(slice) out the first word of the string using substr() or substring() method
+console.log(challenge.substr(0,2));    // 6.Cut(slice) out the first word of the string using substr() or substring() method
 
-console.log(challenge.substring(2));   // Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
+console.log(challenge.substring(2));   // 7.Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
 
-console.log(sentence.substr(30,24));   // 7.Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
+console.log(sentence.substr(30,24));   // 8.Use substr to slice out the phase because because because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
