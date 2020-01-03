@@ -9,3 +9,5 @@ console.log(challenge.toUpperCase());  // Change all the string to capital lette
 console.log(challenge.toLowerCase());  // Change all the string to lowercase letters using toLowerCase() method
 
 console.log(challenge.substr(0,2));    // Cut(slice) out the first word of the string using substr() or substring() method
+
+console.log(challenge.substring(2));   // Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
