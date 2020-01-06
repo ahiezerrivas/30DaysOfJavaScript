@@ -28,3 +28,5 @@ console.log(string1.replace('JavaScript', 'Python')) //13.Change 30 Days Of Java
 console.log(string1.charAt(15))        // 14.What is character at index 15 in '30 Days Of JavaScript' string use charAt() method.
 
 console.log(string1.charCodeAt(11))    // 15.What is the character code of J in '30 Days Of JavaScript' string using charCodeAt()
+
+console.log(string1.indexOf('a'))      // 16.Use indexOf to determine the position of the first occurrence of a in 30 Days Of JavaScript
