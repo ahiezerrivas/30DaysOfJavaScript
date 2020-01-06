@@ -17,3 +17,5 @@ console.log(sentence.substr(30,24));   // 8.Use substr to slice out the phase be
 console.log(string.includes('Script')) // 9.Check if the string contains a word Script using includes() method
 
 console.log(string.split())            // 10.Split the string into array using split() method
+
+console.log(string.split(' '))         // 11.Split the string 30 Days Of JavaScript at the space using split() method
