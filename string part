@@ -19,3 +19,5 @@ console.log(string.includes('Script')) // 9.Check if the string contains a word 
 console.log(string.split())            // 10.Split the string into array using split() method
 
 console.log(string.split(' '))         // 11.Split the string 30 Days Of JavaScript at the space using split() method
+
+console.log(company.split(','))        // 12.'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' split the string at the comma and change it to an array.
