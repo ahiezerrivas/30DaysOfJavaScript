@@ -36,3 +36,5 @@ console.log(string1.lastIndexOf('a'))  // 17.Use lastIndexOf to determine the po
 console.log(sentence.indexOf('because')) // 18.Use indexOf to find the position of the first occurrence of the word because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
 
 console.log(sentence.lastIndexOf('because')) //19.Use lastIndexOf to find the position of the last occurrence of the word because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
+
+console.log(sentence.search('because'))   //20.Use search to find the position of the first occurrence of the word because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
