@@ -21,3 +21,6 @@ console.log(string.split())            // 10.Split the string into array using s
 console.log(string.split(' '))         // 11.Split the string 30 Days Of JavaScript at the space using split() method
 
 console.log(company.split(','))        // 12.'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' split the string at the comma and change it to an array.
+
+let string1 = '30 Days Of JavaScript'
+console.log(string1.replace('JavaScript', 'Python')) //13.Change 30 Days Of JavaScript to 30 Days Of Python using replace() method.
