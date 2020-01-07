@@ -52,3 +52,5 @@ console.log(frase.match('because'));    //25.Use match() to count the number all
 var cont = '30 Days of'
 undefined
 console.log(cont.concat(' Javascript'));  //26.Use concat() and merge '30 Days of' and 'JavaScript' to a single string, '30 Days Of JavaScript'
+
+console.log(cont.repeat(2));              //27.Use repeat() method to print 30 Days Of JavaScript 2 times
