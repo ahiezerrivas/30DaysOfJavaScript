@@ -44,3 +44,5 @@ console.log(sentence.trim())           // 21.Use trim() to remove if there is tr
 console.log(string1.startsWith('30 Days Of JavaScript'))  //22.Use startsWith() method with the string 30 Days Of JavaScript make the result true
 
 console.log(string1.endsWith('30 Days Of JavaScript'))    //23.Use endsWith() method with the string 30 Days Of JavaScript make the result true
+
+console.log(sentence.match('a'));       //24.Use match() method to find all the a’s in 30 Days Of JavaScript
