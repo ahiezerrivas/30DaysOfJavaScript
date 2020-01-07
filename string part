@@ -48,3 +48,7 @@ console.log(string1.endsWith('30 Days Of JavaScript'))    //23.Use endsWith() me
 console.log(sentence.match('a'));       //24.Use match() method to find all the a’s in 30 Days Of JavaScript
 
 console.log(frase.match('because'));    //25.Use match() to count the number all because's in the following sentence:'You cannot end a sentence with because because because is a conjunction'
+
+var cont = '30 Days of'
+undefined
+console.log(cont.concat(' Javascript'));  //26.Use concat() and merge '30 Days of' and 'JavaScript' to a single string, '30 Days Of JavaScript'
