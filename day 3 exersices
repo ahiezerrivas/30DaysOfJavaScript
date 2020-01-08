@@ -1,0 +1,74 @@
+💻 Day 3: Exercises
+1. Exercises: Data types Part
+
+    1 Declare firstName, lastName, country, city, age, isMarried, year variable and assign value to it
+        
+        let firstName = 'ahiezer';
+          undefined
+          let lastName = 'rivas';
+          undefined
+          let country = 'Venezuela';
+          undefined
+          let city = 'Caracas';
+          undefined
+          let age = 27;
+          undefined
+          let isMarried = false;
+          undefined
+          let year = 2018;
+          undefined
+          
+          
+     2 The JavaScript typeof operator uses to check different data types. Check the data type of each variables from question number 1.
+     
+          console.log(typeof firstName);
+            VM9853:1 string
+            undefined
+            console.log(typeof lastName);
+            VM9897:1 string
+            undefined
+            console.log(typeof country);
+            VM9938:1 string
+            undefined
+            console.log(typeof city);
+            VM9962:1 string
+            undefined
+            console.log(typeof age);
+            VM9984:1 number
+            undefined
+            console.log(typeof isMarried);
+            VM10009:1 boolean
+            undefined
+            console.log(typeof year);
+            VM10032:1 number
+            
+       3 Check if type of '10' is equal to 10
+       
+            let var1= 10;
+            undefined
+            let var2= '10';
+            undefined
+            console.log(var1===var2);
+            VM10175:1 false
+            
+        4 Check if parseInt('9.8') is equal to 10
+            
+            let var1= '9.8';
+
+            let var2= 10;
+            
+            console.log(parseInt(var1)===var2);
+            
+            
+     2. Exercises: Arithmetic Operators Part
+     
+        1. Write a script that prompt the user to enter base and height of the triangle and calculate an area of a triangle (area = 0.5 x b x h).
+            
+            let b = parseInt(prompt('Enter base of the triangle', 'base of the triangle'));
+
+            let h = parseInt(prompt('Enter height of the triangle', 'height of the triangle'));
+
+            let area = 0.5 x b x h;
+
+            let area = 0.5 * b * h;
+            
