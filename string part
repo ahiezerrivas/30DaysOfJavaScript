@@ -102,3 +102,6 @@ console.log(languaje.endsWith('on'))
 34//I hope this course is not full of jargon. Check if jargon is in the sentence.
 let jar = 'I hope this course is not full of jargon';
 console.log(jar.match('jargon'));
+
+35//Generate a random number between 0 and 100 inclusive.
+Math.floor(Math.random() * 101);
