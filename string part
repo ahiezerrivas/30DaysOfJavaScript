@@ -98,3 +98,7 @@ console.log('"Love is not patronizing and charity isn\'t about pity, it is about
 
 33//Check if 'on' is found in both python and jargon
 console.log(languaje.endsWith('on')) 
+
+34//I hope this course is not full of jargon. Check if jargon is in the sentence.
+let jar = 'I hope this course is not full of jargon';
+console.log(jar.match('jargon'));
