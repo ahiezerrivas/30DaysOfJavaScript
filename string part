@@ -88,3 +88,7 @@ for (var i=0; i<num.length;i++){  total+=numArray[i];  }
 30// ** Clean the following text and find the most frequent word(hint, use replace and regular express).
 const sentence = '%I $am@% a %tea@cher%, &and& I lo%#ve %tea@ching%;. There $is nothing; &as& mo@re rewarding as educa@ting &and& @emp%o@wering peo@ple. ;I found tea@ching m%o@re interesting tha@n any other %jo@bs. %Do@es thi%s mo@tivate yo@u to be a tea@cher!? %Th#is 30#Days&OfJavaScript &is also $the $result of &love& of tea&ching'
 console.log(sentence.replace(/[.*+?%&#@^${}()|[\]\\]/g,''));
+
+
+31//Using console.log() print out the following statement.
+console.log("'There is no exercise better for the heart than reaching down and lifting people up.' by John Holmes teaches us to help to one another.");
